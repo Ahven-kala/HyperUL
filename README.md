@@ -2,7 +2,7 @@
 
 The repository contains  the related code for the paper, "*Hyperbolic Uncertainty Aware Semantic Segmentation*". 
 
-<img src="imgs/uncertainty_mis_hyper.png" width="80%">
+<img src="imgs/uncertainty_mis_hyper.png" width="70%" align="center">
 
 
 
