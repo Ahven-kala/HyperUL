@@ -2,8 +2,9 @@
 
 The repository contains  the related code for the paper, "*Hyperbolic Uncertainty Aware Semantic Segmentation*". 
 
-<img src="imgs/uncertainty_mis_hyper.png" width="70%" align="center">
-
+<div align=center>
+<img src="imgs/uncertainty_mis_hyper.png" width="70%">
+</div>
 
 
 The SegFormer-B0 is used as the semantic image segmentation model. Besides, I do not intend to provide the whole code, because previous models cannot achieve optimal performance due to the lack of various data augmentation techniques.  
